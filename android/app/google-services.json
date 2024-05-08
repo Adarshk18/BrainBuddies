@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951497628287",
+    "project_id": "brain-buddies-b8bf4",
+    "storage_bucket": "brain-buddies-b8bf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951497628287:android:32fcf2eb2428fbc3df7d4a",
+        "android_client_info": {
+          "package_name": "com.brainbd.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVq6e6kLHq7Xk1rHK6rXueOGDGwewG-Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
